@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-## 🌐 Socials:
+## 🌐 Find me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nematollah-saeidi) 
 [![GMail](https://img.shields.io/badge/gmail-f0f0f0?&logo=gmail&logoColor=white&color=ea4335)](mailto:nemat.saeidi@gmail.com)
 
