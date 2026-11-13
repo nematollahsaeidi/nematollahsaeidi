@@ -13,6 +13,8 @@
 ![RAG](https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0EA5E9?style=for-the-badge)
+![vLLM](https://img.shields.io/badge/vLLM-30A2FF?style=for-the-badge)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge)
 ![Sentence Transformers](https://img.shields.io/badge/Sentence%20Transformers-2563EB?style=for-the-badge)
