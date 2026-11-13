@@ -43,13 +43,13 @@
 <br>
 
 <!-- Skills without Official Logos (Colorful Badges) -->
-<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge" alt="LLMs" />
+<img src="https://img.shields.io/badge/LLMs-FF6446?style=for-the-badge" alt="LLMs" />
 <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge" alt="RAG" />
 <img src="https://img.shields.io/badge/Prompt%20Engineering-0EA5E9?style=for-the-badge" alt="Prompt Engineering" />
-<img src="https://img.shields.io/badge/vLLM-30A2FF?style=for-the-badge" alt="vLLM" />
-<img src="https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge" alt="ChromaDB" />
+<img src="https://img.shields.io/badge/vLLM-ea4335?style=for-the-badge" alt="vLLM" />
+<br>
+<img src="https://img.shields.io/badge/ChromaDB-412991?style=for-the-badge" alt="ChromaDB" />
 <img src="https://img.shields.io/badge/Sentence%20Transformers-2563EB?style=for-the-badge" alt="Sentence Transformers" />
-<img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge" alt="Whisper" />
 <img src="https://img.shields.io/badge/Faiss-0866FF?style=for-the-badge" alt="Faiss" />
 
 </div>
