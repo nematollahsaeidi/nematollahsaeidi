@@ -33,3 +33,5 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23FF6C00.svg?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-%23005571.svg?style=for-the-badge&logo=Elasticsearch&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
+[![](https://visitcount.itsvg.in/api?id=nematollahsaeidi&icon=0&color=0)](https://visitcount.itsvg.in)
