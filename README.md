@@ -16,6 +16,7 @@
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0EA5E9?style=for-the-badge)
 ![vLLM](https://img.shields.io/badge/vLLM-30A2FF?style=for-the-badge)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge)
 ![Sentence Transformers](https://img.shields.io/badge/Sentence%20Transformers-2563EB?style=for-the-badge)
 ![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge)
