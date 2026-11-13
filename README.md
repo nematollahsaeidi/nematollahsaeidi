@@ -1,38 +1,55 @@
 > **Note:** For the past two years I have not been able to publish my code on GitHub. My work on LLMs, RAG, hybrid search and document AI from the last two years is therefore not on this profile; all of it was built for company projects that are private. For my research, publications and full experience, please see my website.
 
-## 🌐 Social Media:
+### 🌐 Social Media:
+
+<div align="center">
 
 [![Website](https://img.shields.io/badge/Website-nematollahsaeidi.github.io-181717?logo=githubpages&logoColor=white)](https://nematollahsaeidi.github.io)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=8kg-cF4AAAAJ)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nematollah-saeidi)
 [![GMail](https://img.shields.io/badge/gmail-f0f0f0?&logo=gmail&logoColor=white&color=ea4335)](mailto:nemat.saeidi@gmail.com)
 
-## 💻 Tech Stack:
+</div>
 
-![LLMs](https://img.shields.io/badge/LLMs-111827?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0EA5E9?style=for-the-badge)
-![vLLM](https://img.shields.io/badge/vLLM-30A2FF?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge)
-![Sentence Transformers](https://img.shields.io/badge/Sentence%20Transformers-2563EB?style=for-the-badge)
-![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge)
-![Faiss](https://img.shields.io/badge/Faiss-0866FF?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23006CAB.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-%230078D7.svg?style=for-the-badge&logo=Mathworks&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23FF6C00.svg?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-%23005571.svg?style=for-the-badge&logo=Elasticsearch&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+### 💻 Tech Stack:
+
+<div align="center">
+
+<!-- Line 1 (9 Icons) -->
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="Hugging Face" width="48" height="48" title="Hugging Face" />
+<img src="https://cdn.simpleicons.org/langchain/white" alt="LangChain" width="48" height="48" title="LangChain" />
+<img src="https://cdn.simpleicons.org/ollama/white" alt="Ollama" width="48" height="48" title="Ollama" />
+<img src="https://cdn.simpleicons.org/pytorch/EE4C2C" alt="PyTorch" width="48" height="48" title="PyTorch" />
+<img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" width="48" height="48" title="Docker" />
+<img src="https://cdn.simpleicons.org/python/3670A0" alt="Python" width="48" height="48" title="Python" />
+<img src="https://cdn.simpleicons.org/keras/D00000" alt="Keras" width="48" height="48" title="Keras" />
+<img src="https://cdn.simpleicons.org/numpy/013243" alt="NumPy" width="48" height="48" title="NumPy" />
+<img src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" width="48" height="48" title="Pandas" />
+
+<br>
+
+<!-- Line 2 (9 Icons) -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="48" height="48" title="Matplotlib" />
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="scikit-learn" width="48" height="48" title="scikit-learn" />
+<img src="https://cdn.simpleicons.org/scipy/0C55A5" alt="SciPy" width="48" height="48" title="SciPy" />
+<img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" width="48" height="48" title="Linux" />
+<img src="https://cdn.simpleicons.org/tensorflow/FF6F00" alt="TensorFlow" width="48" height="48" title="TensorFlow" />
+<!-- MATLAB placeholder: Simple Icons has no official icon. Using a generic devicon or text fallback -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="48" height="48" title="MATLAB" />
+<img src="https://cdn.simpleicons.org/opencv/FF6C00" alt="OpenCV" width="48" height="48" title="OpenCV" />
+<img src="https://cdn.simpleicons.org/elasticsearch/005571" alt="Elasticsearch" width="48" height="48" title="Elasticsearch" />
+<img src="https://cdn.simpleicons.org/latex/008080" alt="LaTeX" width="48" height="48" title="LaTeX" />
+
+<br>
+
+<!-- Skills without Official Logos (Colorful Badges) -->
+<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge" alt="LLMs" />
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge" alt="RAG" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-0EA5E9?style=for-the-badge" alt="Prompt Engineering" />
+<img src="https://img.shields.io/badge/vLLM-30A2FF?style=for-the-badge" alt="vLLM" />
+<img src="https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge" alt="ChromaDB" />
+<img src="https://img.shields.io/badge/Sentence%20Transformers-2563EB?style=for-the-badge" alt="Sentence Transformers" />
+<img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge" alt="Whisper" />
+<img src="https://img.shields.io/badge/Faiss-0866FF?style=for-the-badge" alt="Faiss" />
+
+</div>
