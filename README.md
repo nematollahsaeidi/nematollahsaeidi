@@ -1,4 +1,4 @@
-> **Note:** For the past two years I have not been able to publish my code on GitHub. My work on LLMs, RAG, hybrid search and document AI from the last two years is therefore **not** on this profile; much of it was built for company projects that are private. For my research, publications and full experience, please see my website.
+> **Note:** For the past two years I have not been able to publish my code on GitHub. My work on LLMs, RAG, hybrid search and document AI from the last two years is therefore not on this profile; all of it was built for company projects that are private. For my research, publications and full experience, please see my website.
 
 ## 🌐 Social Media:
 
