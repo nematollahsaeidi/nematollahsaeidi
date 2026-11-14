@@ -6,7 +6,7 @@
 
 [![Website](https://img.shields.io/badge/Website-nematollahsaeidi.github.io-181717?logo=githubpages&logoColor=white)](https://nematollahsaeidi.github.io)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=8kg-cF4AAAAJ)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nematollah-saeidi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nematollah-saeidi/)
 [![GMail](https://img.shields.io/badge/gmail-f0f0f0?&logo=gmail&logoColor=white&color=ea4335)](mailto:nemat.saeidi@gmail.com)
 
 </div>
